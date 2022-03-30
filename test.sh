@@ -11,3 +11,6 @@ echo "ARRAY[1]: ${ARRAY[1]}"
 #全てのアイテムをアクセスする
 echo "ARRAY[*]: ${ARRAY[*]}"
 echo "ARRAY[@]: ${ARRAY[@]}"
+
+
+echo "ARRAY[@]: ${ARRAY[@]}"
